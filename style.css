@@ -6,7 +6,7 @@
 }
 body
 {
-    background: url(image/background.jpg);
+    background-image: linear-gradient(orange,tomato)
     
     background-size: cover;
 }
@@ -36,10 +36,10 @@ world h2
 
 .Tom
 {
-    width: 420px;
-    height: 410px;
-    border-radius: 210px;
+    width: 430px;
+    height: 420px;
+    border-radius: 215px;
     float: right;
-    margin-right: 45vh;
+    margin-right: 40vh;
     margin-top: 0;
 }
